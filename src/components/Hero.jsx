@@ -77,7 +77,7 @@ const Hero = () => {
       />
 
       <motion.img
-        src="./images/tea.jpg"
+        src="/images/tea.jpg"
         alt="tea"
         className="tea"
         initial={{ x: -300, opacity: 0 }}
